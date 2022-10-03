@@ -1,0 +1,14 @@
+body {
+    font-size: 200%;
+    background-color: bisque;
+    color: darkorange;
+}
+sub {
+    color: crimson;
+}
+sup {
+    color: mediumblue;
+}
+span { 
+    color: black;
+}
